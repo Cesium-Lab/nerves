@@ -138,6 +138,8 @@
 - EchoLink (for internet comms): must register call sign and proof of license
 - NTSC (national TV systems committee): analog fast-scan color TV
 - SSB has narrower bandwidth
+- How is over the air access to Internet Radio Linking Project (IRLP) nodes accomplished?
+  -  Dual-Tone Multi-Frequency (DTMF) signals
 
 
 - SSB (single side-band): 

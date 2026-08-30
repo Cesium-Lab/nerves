@@ -1,0 +1,1 @@
+- `~/.ssh/hosts` takes precedent over Tailscale hostnames
